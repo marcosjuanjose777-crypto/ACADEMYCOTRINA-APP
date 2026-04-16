@@ -1,0 +1,7 @@
+{
+  "name": "AcademyCotrina - Maestro de Grado",
+  "description": "Plataforma de entrenamiento dental de alto nivel. Domina Anestesia, Anatomía, Farmacología y más para el examen de grado.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
